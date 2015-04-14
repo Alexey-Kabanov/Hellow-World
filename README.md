@@ -1,2 +1,2 @@
 # Hellow-World
-test repositiry for lerning
+test repositiry for learning
